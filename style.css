@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* 省略 */
+
+body {
+	font-family: 'Noto Sans JP', sans-serif;
+	background: #3ca9d0; /* 追加 */
+}
+
+.box{
+    border:5px solid #5c08ed;
+}
+
+#name{
+	color: aquamarine;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+picture{
+	size: 70px;
+	border: 1px solid #fbbc05;
+}
+
+h1#title{
+	border-bottom: 1px solid #fafafa;
+}
+
+.sub-text{
+	color: azure;
+}
